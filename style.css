@@ -70,9 +70,11 @@ section{
     background-size: 70px;
     background-position: left;
 }
-    .bold{
-      
+    .experience-area .bold{
+       color: orange;
         text-align:center;
+        font-size: 3em;
+       
     }
 
 #full-stack{
