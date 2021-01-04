@@ -70,6 +70,11 @@ section{
     background-size: 70px;
     background-position: left;
 }
+    .bold{
+      
+        text-align:center;
+    }
+
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(lightsalmon, tomato);
